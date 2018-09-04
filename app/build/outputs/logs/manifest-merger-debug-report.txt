@@ -1,0 +1,225 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+MERGED from [com.android.databinding:adapters:3.1.4] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/f434f1e17ceb8393e59220e265bef463/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.4] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/7350f4f0538131e9f6dbdce538c9eee6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/19763d846165e3108d5cc1062c1c58e7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/ae6861257666d191c59a522658452b97/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fa07958c5320670592c5c6b0e3ea33e8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c40eb71cdad3d847544205d4bd157bc5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e79d9de806462f0aa864527c371e650d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ef11cc4c45cc1ea426db87ca436099c0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/74f31d57e57643b69d9f457f2a401c41/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db51d745fce37482de87041e2eb28fd7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7bd06ce41da9adc9f11e3a4e1e8c3bd2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22c67a9ee6a5a3d7a481dba2e034d4e6/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8ef3ac3ecc7519281407e94f0e8e039c/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+	package
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:20:5-43
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:1-71:12
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:23:22-64
+application
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:25:5-70:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/19763d846165e3108d5cc1062c1c58e7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/19763d846165e3108d5cc1062c1c58e7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/ae6861257666d191c59a522658452b97/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/ae6861257666d191c59a522658452b97/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fa07958c5320670592c5c6b0e3ea33e8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fa07958c5320670592c5c6b0e3ea33e8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c40eb71cdad3d847544205d4bd157bc5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c40eb71cdad3d847544205d4bd157bc5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e79d9de806462f0aa864527c371e650d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e79d9de806462f0aa864527c371e650d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ef11cc4c45cc1ea426db87ca436099c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ef11cc4c45cc1ea426db87ca436099c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/74f31d57e57643b69d9f457f2a401c41/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/74f31d57e57643b69d9f457f2a401c41/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db51d745fce37482de87041e2eb28fd7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db51d745fce37482de87041e2eb28fd7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7bd06ce41da9adc9f11e3a4e1e8c3bd2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7bd06ce41da9adc9f11e3a4e1e8c3bd2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22c67a9ee6a5a3d7a481dba2e034d4e6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22c67a9ee6a5a3d7a481dba2e034d4e6/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:30:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:33:9-38:20
+	android:label
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:35:13-45
+	android:launchMode
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:36:13-43
+	android:theme
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:37:13-53
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:34:13-49
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:41:9-53:20
+	android:parentActivityName
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:44:13-63
+	android:label
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:43:13-58
+	android:theme
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:42:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:46:13-48:56
+	android:value
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:48:17-54
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:47:17-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:50:17-68
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:51:27-74
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:57:9-59:40
+	android:exported
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:58:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:62:9-68:19
+	android:exported
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:63:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:65:13-67:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:66:17-83
+	android:name
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml:66:25-81
+uses-sdk
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.4] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/f434f1e17ceb8393e59220e265bef463/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.4] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/adapters-3.1.4.aar/f434f1e17ceb8393e59220e265bef463/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/7350f4f0538131e9f6dbdce538c9eee6/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.4] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/library-3.1.4.aar/7350f4f0538131e9f6dbdce538c9eee6/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/19763d846165e3108d5cc1062c1c58e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/19763d846165e3108d5cc1062c1c58e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/ae6861257666d191c59a522658452b97/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta1.aar/ae6861257666d191c59a522658452b97/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fa07958c5320670592c5c6b0e3ea33e8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fa07958c5320670592c5c6b0e3ea33e8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c40eb71cdad3d847544205d4bd157bc5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c40eb71cdad3d847544205d4bd157bc5/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e79d9de806462f0aa864527c371e650d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e79d9de806462f0aa864527c371e650d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ef11cc4c45cc1ea426db87ca436099c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ef11cc4c45cc1ea426db87ca436099c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/74f31d57e57643b69d9f457f2a401c41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/74f31d57e57643b69d9f457f2a401c41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db51d745fce37482de87041e2eb28fd7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db51d745fce37482de87041e2eb28fd7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7bd06ce41da9adc9f11e3a4e1e8c3bd2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7bd06ce41da9adc9f11e3a4e1e8c3bd2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22c67a9ee6a5a3d7a481dba2e034d4e6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22c67a9ee6a5a3d7a481dba2e034d4e6/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8ef3ac3ecc7519281407e94f0e8e039c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/8ef3ac3ecc7519281407e94f0e8e039c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+		ADDED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/teresaj/Documents/repositories/architectureComponentsSunshine/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/4eb64f5f8350dc55df1b95fe08e79bfd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/19763d846165e3108d5cc1062c1c58e7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/19763d846165e3108d5cc1062c1c58e7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fa07958c5320670592c5c6b0e3ea33e8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fa07958c5320670592c5c6b0e3ea33e8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c40eb71cdad3d847544205d4bd157bc5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/c40eb71cdad3d847544205d4bd157bc5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e79d9de806462f0aa864527c371e650d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e79d9de806462f0aa864527c371e650d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ef11cc4c45cc1ea426db87ca436099c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ef11cc4c45cc1ea426db87ca436099c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/74f31d57e57643b69d9f457f2a401c41/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/74f31d57e57643b69d9f457f2a401c41/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db51d745fce37482de87041e2eb28fd7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/db51d745fce37482de87041e2eb28fd7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7bd06ce41da9adc9f11e3a4e1e8c3bd2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7bd06ce41da9adc9f11e3a4e1e8c3bd2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22c67a9ee6a5a3d7a481dba2e034d4e6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/22c67a9ee6a5a3d7a481dba2e034d4e6/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:preference-v7:26.1.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/preference-v7-26.1.0.aar/f7bf5780814cf121e501a89622052dcf/AndroidManifest.xml:24:13-51
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/teresaj/.gradle/caches/transforms-1/files-1.1/firebase-jobdispatcher-0.7.0.aar/bb7c4fa6e5072a291efab4d39c700e27/AndroidManifest.xml:37:25-84
